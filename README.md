@@ -37,3 +37,5 @@ g++ -o inventario_struct inventario_struct.cpp
 ```
 ![Image Alt](https://github.com/ro-lodc/Inventario-con-vector-de-objetos-struct-/blob/cfafd67a0cf462d7e9e47f7222bef12e856e91d9/Captura%20de%20pantalla%202026-08-12%20203254.png)
 ![Image Alt](https://github.com/ro-lodc/Inventario-con-vector-de-objetos-struct-/blob/e6cf31f146655ebcd649648e8e68d2b1ff5feeea/Captura%20de%20pantalla%202026-08-12%20203323.png)
+![Image Alt]()
+![Image Alt]()
