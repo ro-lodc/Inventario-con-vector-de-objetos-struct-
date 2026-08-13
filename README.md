@@ -35,4 +35,4 @@ consultar un producto por posición de forma segura.
 g++ -o inventario_struct inventario_struct.cpp
 ./inventario_struct
 ```
-![Image Alt]()
+![Image Alt](https://github.com/ro-lodc/Inventario-con-vector-de-objetos-struct-/blob/cfafd67a0cf462d7e9e47f7222bef12e856e91d9/Captura%20de%20pantalla%202026-08-12%20203254.png)
