@@ -35,3 +35,4 @@ consultar un producto por posición de forma segura.
 g++ -o inventario_struct inventario_struct.cpp
 ./inventario_struct
 ```
+![Image Alt]()
